@@ -44,12 +44,12 @@ body {
     font-size: 1vw;
 }
 
-.cartao__conteudo__pergunta p {
+.cartao_conteudo_pergunta p {
     color: var(--text-color);
     font-weight: 500;
 }
 
-.cartao__conteudo__resposta p {
+.cartao_conteudo_resposta p {
     color: var(--card-back-color);
     font-weight: 700;
 }
