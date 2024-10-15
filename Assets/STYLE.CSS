@@ -57,7 +57,7 @@ body {
     font-weight: 700;
 }
 
-.cartão:hover .cartao_conteudo {
+.cartao:hover .cartao_conteudo {
     transform: rotateY(180deg);
 }
 
