@@ -61,8 +61,8 @@ body {
     transform: rotateY(180deg);
 }
 
-.cartao_conteudo_frente,
-.cartao_conteudo_verso {
+.cartao_conteudo_pergunta,
+.cartao_conteudo_resposta {
     backface-visibility: hidden;
 }
 
