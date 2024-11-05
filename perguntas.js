@@ -29,7 +29,7 @@ criarCartao('língua portuguesa',
     'é uma oração que depende de outra pra ter um sentido completo.ex: Não saímos porque estava chovendo = oração subordinada')
 
 criarCartao('Inglês',
-    'qual a forma correta do verbo “to be” no passado para “ele / ela”' ?,
+    'qual a forma correta do verbo “to be” no passado para “ele / ela”?',
     'was'
 )
 criarCartao('Física',
